@@ -50,7 +50,7 @@ CodeAlpha-BuildACalculator/
 ├── image.jpg
 ├── cal-bg.jpg
 ├── boy.jpg
-
+```
 
 ## How to Run the Project
 
