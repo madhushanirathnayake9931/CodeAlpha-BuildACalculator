@@ -57,7 +57,7 @@ CodeAlpha-BuildACalculator/
 1. Download or clone this repository.
 
 bash
-git clone [https://github.com/madhushanirathnayake9931/calculator-project.git]
+git clone [https://github.com/madhushanirathnayake9931/CodeAlpha-BuildACalculator.git]
 
 2. Open the project folder.
 
