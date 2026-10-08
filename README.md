@@ -25,22 +25,22 @@ This project contains a modern calculator interface with:
 
 ## Features
 
-| Feature         | Description                         |
-|                 |                                     |
-| Number Input    | Users can enter numbers from 0 to 9 |
-| Addition        | Adds two or more values             |
-| Subtraction     | Subtracts values                    |
-| Multiplication  | Multiplies values                   |
-| Division        | Divides values                      |
-| Percentage      | Calculates percentage values        |
-| Decimal Support | Allows decimal number calculations  |
-| Clear Button    | Clears the calculator display       |
-| Delete Button   | Removes the last entered character  |
-| Equal Button    | Calculates and displays the result  |
+| Feature | Description |
+|---|---|
+| Number Input | Users can enter numbers from 0 to 9 |
+| Addition | Adds two or more values |
+| Subtraction | Subtracts values |
+| Multiplication | Multiplies values |
+| Division | Divides values |
+| Percentage | Calculates percentage values |
+| Decimal Support | Allows decimal number calculations |
+| Clear Button | Clears the calculator display |
+| Delete Button | Removes the last entered character |
+| Equal Button | Calculates and displays the result |
 
 ## Project Structure
 
-text
+```text
 CodeAlpha-BuildACalculator/
 │
 ├── index.html
